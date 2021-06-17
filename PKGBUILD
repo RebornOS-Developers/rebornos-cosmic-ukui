@@ -1,7 +1,8 @@
 # Maintainer: CookieSource <cookiesource@rebornos.org>
 # Added peony-extensions & kde partition manager
+# Added Rhytmbox for music playback
 pkgname=rebornos-cosmic-ukui
-pkgver=1.1
+pkgver=1.2
 pkgrel=0
 pkgdesc='Cosmic package for RebornOS UKUI'
 url='https://gitlab.com/rebornos-team/rebornos-cosmic-packages/current/rebornos-cosmic-ukui'
@@ -12,4 +13,4 @@ depends=('indicator-china-weather' 'kylin-nm' 'qt5-ukui-platformtheme' 'ukui-bio
 'ukui-panel' 'ukui-power-manager' 'ukui-screensaver' 'ukui-session-manager' 'ukui-settings-daemon' 
 'ukui-sidebar' 'ukui-system-monitor' 'ukui-themes' 'ukui-wallpapers' 'ukui-window-switch' 'ukwm' 
 'peony' 'mate-utils' 'mate-terminal' 'engrampa' 'eom' 'pluma' 'mpv' 'atril' 'mate-calc' 
-'peony-extensions' 'partitionmanager')
+'peony-extensions' 'partitionmanager' 'rhythmbox')
