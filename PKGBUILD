@@ -11,5 +11,5 @@ depends=('indicator-china-weather' 'kylin-nm' 'qt5-ukui-platformtheme' 'ukui-bio
 'ukui-control-center' 'ukui-greeter' 'ukui-interface' 'ukui-media' 'ukui-menu' 'ukui-menus' 
 'ukui-panel' 'ukui-power-manager' 'ukui-screensaver' 'ukui-session-manager' 'ukui-settings-daemon' 
 'ukui-sidebar' 'ukui-system-monitor' 'ukui-themes' 'ukui-wallpapers' 'ukui-window-switch' 'ukwm' 
-'peony' 'mate-utils' 'mate-terminal' 'engrampa' 'eom' 'pluma' 'mpv' 'atril' 'mate-calc')
-'peony-extensions' 'partitionmanager' 
+'peony' 'mate-utils' 'mate-terminal' 'engrampa' 'eom' 'pluma' 'mpv' 'atril' 'mate-calc' 
+'peony-extensions' 'partitionmanager')
